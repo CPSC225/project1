@@ -1,3 +1,2 @@
-# print a message
-print("User1 was here!")
+print("Users 1 and 2 were here!")
 
